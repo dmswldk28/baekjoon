@@ -6,7 +6,8 @@ import java.io.InputStreamReader;
 import java.util.Arrays;
 import java.util.StringTokenizer;
 
-public class S2_15666_N과M12 {
+// N과 M(12)
+public class S2_15666 {
 	
 	static int N, M;
 	static int[] list, out;

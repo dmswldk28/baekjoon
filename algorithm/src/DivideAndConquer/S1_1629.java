@@ -5,7 +5,8 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-public class S1_1629_곱셈 {
+// 곱셈
+public class S1_1629 {
 	static int A, B, C;
 
 	public static void main(String[] args) throws IOException {
