@@ -10,3 +10,13 @@
 | :-----: | :-----: | :-----: | :-----: |
 | 00 | <a href="algorithm/src/backtracking" target="_blank">백트래킹</a> | 1 | <a href="algorithm/src/backtracking">바로가기</a> |
 | 01 | <a href="algorithm/src/DivideAndConquer" target="_blank">분할정복</a> | 1 | <a href="algorithm/src/DivideAndConquer">바로가기</a> |
+
+
+<br>
+
+### 잡지식
+
+1. github 잔디 심어지려면 local의 이메일과 github의 이메일이 같아야 한다.
+    - git config --global --list
+    - git config --global user.email "github 이메일 주소"
+        - ssafy 프로젝트 할 때는 또 바꿔야겠네..
