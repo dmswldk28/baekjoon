@@ -10,7 +10,7 @@
 | :-----: | :-----: | :-----: | :-----: |
 | 00 | <a href="algorithm/src/backtracking" target="_blank">백트래킹</a> | 1 | <a href="algorithm/src/backtracking">바로가기</a> |
 | 01 | <a href="algorithm/src/DivideAndConquer" target="_blank">분할정복</a> | 1 | <a href="algorithm/src/DivideAndConquer">바로가기</a> |
-| 02 | <a href="algorithm/src/graph" target="_blank">그래프</a> | 1 | <a href="algorithm/src/graph">바로가기</a> |
+| 02 | <a href="algorithm/src/graph" target="_blank">그래프</a> | 2 | <a href="algorithm/src/graph">바로가기</a> |
 | 03 | <a href="algorithm/src/DP" target="_blank">다이나믹 프로그래밍</a> | 1 | <a href="algorithm/src/DP">바로가기</a> |
 
 
