@@ -9,7 +9,7 @@ import java.util.Map;
 import java.util.StringTokenizer;
 
 // 좌표 압축
-public class S2_18890 {
+public class S2_18870 {
 	
 //	static class Num implements Comparable<Num>{
 //		int number, idx;
