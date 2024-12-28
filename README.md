@@ -11,7 +11,7 @@
 | 00 | <a href="algorithm/src/backtracking" target="_blank">백트래킹</a> | 1 | <a href="algorithm/src/backtracking">바로가기</a> |
 | 01 | <a href="algorithm/src/DivideAndConquer" target="_blank">분할정복</a> | 3 | <a href="algorithm/src/DivideAndConquer">바로가기</a> |
 | 02 | <a href="algorithm/src/graph" target="_blank">그래프</a> | 4 | <a href="algorithm/src/graph">바로가기</a> |
-| 03 | <a href="algorithm/src/DP" target="_blank">다이나믹 프로그래밍</a> | 4 | <a href="algorithm/src/DP">바로가기</a> |
+| 03 | <a href="algorithm/src/DP" target="_blank">다이나믹 프로그래밍</a> | 5 | <a href="algorithm/src/DP">바로가기</a> |
 | 04 | <a href="algorithm/src/geometry" target="_blank">기하학</a> | 1 | <a href="algorithm/src/geometry">바로가기</a> |
 | 05 | <a href="algorithm/src/greedy" target="_blank">그리디</a> | 1 | <a href="algorithm/src/greedy">바로가기</a> |
 | 06 | <a href="algorithm/src/sort" target="_blank">정렬</a> | 1 | <a href="algorithm/src/sort">바로가기</a> |
