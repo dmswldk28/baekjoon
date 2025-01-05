@@ -6,17 +6,17 @@
 <br>
 
 ### 알고리즘 분류
-|          순번          |        알고리즘         |         푼 문제 수          |        링크         |
-| :-----: | :-----: | :-----: | :-----: |
-| 00 | <a href="algorithm/src/backtracking" target="_blank">백트래킹</a> | 1 | <a href="algorithm/src/backtracking">바로가기</a> |
-| 01 | <a href="algorithm/src/DivideAndConquer" target="_blank">분할정복</a> | 3 | <a href="algorithm/src/DivideAndConquer">바로가기</a> |
-| 02 | <a href="algorithm/src/graph" target="_blank">그래프</a> | 6 | <a href="algorithm/src/graph">바로가기</a> |
-| 03 | <a href="algorithm/src/DP" target="_blank">다이나믹 프로그래밍</a> | 7 | <a href="algorithm/src/DP">바로가기</a> |
-| 04 | <a href="algorithm/src/geometry" target="_blank">기하학</a> | 1 | <a href="algorithm/src/geometry">바로가기</a> |
-| 05 | <a href="algorithm/src/greedy" target="_blank">그리디</a> | 1 | <a href="algorithm/src/greedy">바로가기</a> |
-| 06 | <a href="algorithm/src/sort" target="_blank">정렬</a> | 1 | <a href="algorithm/src/sort">바로가기</a> |
-| 07 | <a href="algorithm/src/DataStructure" target="_blank">자료구조</a> | 5 | <a href="algorithm/src/DataStructure">바로가기</a> |
-| 08 | <a href="algorithm/src/Implement" target="_blank">구현</a> | 2 | <a href="algorithm/src/Implement">바로가기</a> |
+|   순번   |              알고리즘              | 푼 문제 수 |                링크                 |
+|:--------:|:----------------------------------:|:----------:|:----------------------------------:|
+|   00     | [다이나믹 프로그래밍](algorithm/src/DP)        |     7      | [바로가기](algorithm/src/DP)      |
+|   01     | [그래프](algorithm/src/graph)               |     6      | [바로가기](algorithm/src/graph)   |
+|   02     | [자료구조](algorithm/src/DataStructure)      |     5      | [바로가기](algorithm/src/DataStructure) |
+|   03     | [분할정복](algorithm/src/DivideAndConquer)    |     3      | [바로가기](algorithm/src/DivideAndConquer) |
+|   04     | [구현](algorithm/src/Implement)             |     2      | [바로가기](algorithm/src/Implement) |
+|   05     | [백트래킹](algorithm/src/backtracking)       |     1      | [바로가기](algorithm/src/backtracking) |
+|   06     | [기하학](algorithm/src/geometry)            |     1      | [바로가기](algorithm/src/geometry) |
+|   07     | [그리디](algorithm/src/greedy)              |     1      | [바로가기](algorithm/src/greedy) |
+|   08     | [정렬](algorithm/src/sort)                 |     1      | [바로가기](algorithm/src/sort)    |
 
 <br>
 
