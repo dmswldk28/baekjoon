@@ -27,6 +27,5 @@
 
 - git config --global --list
 - git config --global user.email "github 이메일 주소"
-    - ssafy 프로젝트 할 때는 또 바꿔야겠네..
 </div>
 </details>
