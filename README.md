@@ -17,6 +17,7 @@
 |   06     | [기하학](algorithm/src/geometry)            |     1      | [바로가기](algorithm/src/geometry) |
 |   07     | [그리디](algorithm/src/greedy)              |     1      | [바로가기](algorithm/src/greedy) |
 |   08     | [정렬](algorithm/src/sort)                 |     1      | [바로가기](algorithm/src/sort)    |
+|   09     | [수학](algorithm/src/Math)                 |     1      | [바로가기](algorithm/src/Math)    |
 
 <br>
 
