@@ -9,7 +9,7 @@
 |   순번   |              알고리즘              | 푼 문제 수 |                링크                 |
 |:--------:|:----------------------------------:|:----------:|:----------------------------------:|
 |   00     | [다이나믹 프로그래밍](algorithm/src/DP)        |     9      | [바로가기](algorithm/src/DP)      |
-|   01     | [그래프](algorithm/src/graph)               |     7      | [바로가기](algorithm/src/graph)   |
+|   01     | [그래프](algorithm/src/graph)               |     8      | [바로가기](algorithm/src/graph)   |
 |   02     | [자료구조](algorithm/src/DataStructure)      |     8      | [바로가기](algorithm/src/DataStructure) |
 |   03     | [분할정복](algorithm/src/DivideAndConquer)    |     3      | [바로가기](algorithm/src/DivideAndConquer) |
 |   04     | [구현](algorithm/src/Implement)             |     2      | [바로가기](algorithm/src/Implement) |
